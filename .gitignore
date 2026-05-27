@@ -1,0 +1,85 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VS Code
+.vscode/
+.vscode-test
+launch.json
+
+# IDE - Eclipse
+.project
+.cproject
+.factorypath
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.swp
+.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
+*.properties.local
+
+# Logs
+*.log
+logs/
+
+# Runtime
+*.jar
+*.jar.original
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Node modules (if used)
+node_modules/
+npm-debug.log
+
+# Gradle (if used)
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Build results
+build/
+out/
+dist/
+
+# Misc
+*.class
+.sts4-cache/
+.spring-boot-configuration-metadata.json
