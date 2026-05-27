@@ -1,6 +1,6 @@
-# Currency Exchange Microservices
+# Currency Exchange 
 
-Estrutura profissional de backend com **2 microsserviços Spring Boot 3 + Java 21**, focada em arquitetura enterprise, organização de camadas e pronta para evolução.
+Backend com **2 microsserviços Spring Boot 3 + Java 21**.
 
 ## Arquitetura
 
@@ -102,8 +102,3 @@ Serviços disponíveis:
 - Currency: `http://localhost:8081/swagger-ui.html`
 - History: `http://localhost:8082/swagger-ui.html`
 
-## Observações
-
-- O projeto foi criado com **foco em estrutura e arquitetura**.
-- As classes de serviço e integrações estão em modo **boilerplate**, sem regras de negócio profundas.
-- Flyway já está preparado com migração inicial em cada microsserviço.
